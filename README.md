@@ -18,7 +18,10 @@ Training the Model
 Evaluating the Model
 Using the Model
 Directory Structure
-Acknowledgements
+
+
+
+
 Installation
 To set up the environment for this project, you need Python 3.6 or above. Follow these steps to install the required packages:
 
@@ -114,6 +117,9 @@ dataset/: Directory containing the training and testing datasets.
 models/: Directory where the trained model is saved.
 scripts/: Directory containing the main scripts for training, evaluation, and prediction.
 utils/: Directory containing utility scripts for data preprocessing and model building.
+config.py: Configuration file for setting training parameters.
+requirements.txt: File listing the required Python packages.
+README.md: Project documentation file.
 config.py: Configuration file for setting training parameters.
 requirements.txt: File listing the required Python packages.
 README.md: Project documentation file.
